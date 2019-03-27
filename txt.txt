@@ -1,19 +1,19 @@
 *Inicio
 *Nosotros
 *Servicios
-  **Desarrollo de SOftware
-  ** gestion de proyectos TI
-  ** SERVICIO DE TERCERISACION
+  **Desarrollo de SOftware 2- 
+  ** gestion de proyectos TI 3- 
+  ** SERVICIO DE TERCERISACION 1- 
   ** FABRICA  DE SOFTWARE
   ** CONSULTORIA TI
 
 *INFRAESTRUCTURA
-  ** GESTION DE LOS SERVICIOS TI
+  ** GESTION DE LOS SERVICIOS TI 4- 
   ** AUDITORIA DE SISTEMAS
   ** SEGURO DE LA INFORMACION-ANILISIS DE REISGO DE TI
   ** Continuidad de Negocio/Plan de Recuperacion Antidesastres
   ** Gestion de Operacion de TI
-  ** Gestion de Servicio de Usuarios
+  ** Gestion de Servicio de Usuarios -5
 *Clientes
 *Contacto
 
